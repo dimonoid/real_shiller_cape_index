@@ -24,7 +24,7 @@ But!
 
 Average 10-90 percentiles: 1.36%
 
-### So safe to say that returns of snp500 index mostly represents on average:
+### So safe to say that returns of snp500 index mostly represent on average:
 
 (!) treasury bonds yield + inflation + 1.36% (!)
 
