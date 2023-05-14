@@ -4,6 +4,8 @@ Based on formula:
 
 Real excess cape yield = (weighted earnings of snp500 for year / market cap) - (10 year treasury yield) - (inflation)
 
+### When using only data 1914-2023:
+
 <img src="Screenshots/1.PNG">
 
 Sorted real excess cape yield (please ignore empty values on the right):
