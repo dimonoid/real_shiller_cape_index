@@ -1,5 +1,7 @@
 # real_shiller_cape_index
 
+# Does volatility premium exist?
+
 Based on formula:
 
 Real excess cape yield = (weighted earnings of snp500 for year / market cap) - (10 year treasury yield) - (inflation)
