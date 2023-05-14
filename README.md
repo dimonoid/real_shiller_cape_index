@@ -7,6 +7,7 @@ Real excess cape yield = (weighted earnings of snp500 for year / market cap) - (
 ### When using only data 1914-2023:
 
 <img src="Screenshots/1.PNG">
+<img src="Screenshots/3.PNG">
 
 Sorted real excess cape yield (please ignore empty values on the right):
 <img src="Screenshots/2.PNG">
@@ -54,9 +55,8 @@ As far as I understand that it is slightly above 0% because of:
 
 ### When using only data 1955-2023:
 
-<img src="Screenshots/3.PNG">
 <img src="Screenshots/4.PNG">
-
+<img src="Screenshots/5.PNG">
 
 25th percentile: -1.9%
 
@@ -68,8 +68,8 @@ Average 10-90 percentiles: -0.071%
 
 ### When using only data 2009-2023:
 
-<img src="Screenshots/5.PNG">
 <img src="Screenshots/6.PNG">
+<img src="Screenshots/7.PNG">
 
 25th percentile: -0.31%
 
